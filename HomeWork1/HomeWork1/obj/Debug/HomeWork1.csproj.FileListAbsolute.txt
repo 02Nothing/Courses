@@ -1,0 +1,8 @@
+D:\Курсы\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+D:\Курсы\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe
+D:\Курсы\HomeWork1\HomeWork1\bin\Debug\HomeWork1.pdb
+D:\Курсы\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csproj.AssemblyReference.cache
+D:\Курсы\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csproj.SuggestedBindingRedirects.cache
+D:\Курсы\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csproj.CoreCompileInputs.cache
+D:\Курсы\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
+D:\Курсы\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb
