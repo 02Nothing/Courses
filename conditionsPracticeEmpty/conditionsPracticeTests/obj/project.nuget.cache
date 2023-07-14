@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EpNtDvdXFNfHVpbyb72QjFUV59icExSfr7ULdwlW8ffZkSoVFgVyafAivNrmxYGyFDr2VMv0O8YOG6qLA+wkXA==",
+  "dgSpecHash": "wqrImm/0dDUWbfoSeR7jAeWlx6gdrSIqdpgt1J59e5+HEHKlBD8TCEUvbHgjBzFW/hrQTz2ijMMkQe30vMLOzg==",
   "success": true,
-  "projectFilePath": "D:\\Курсы\\conditionsPracticeEmpty\\conditionsPracticeTests\\conditionsPracticeTests.csproj",
+  "projectFilePath": "D:\\Courses\\Repos\\Courses\\conditionsPracticeEmpty\\conditionsPracticeTests\\conditionsPracticeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nothing\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Nothing\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

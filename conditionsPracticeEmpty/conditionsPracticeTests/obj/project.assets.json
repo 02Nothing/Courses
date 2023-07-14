@@ -6131,11 +6131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Курсы\\conditionsPracticeEmpty\\conditionsPracticeTests\\conditionsPracticeTests.csproj",
+      "projectUniqueName": "D:\\Courses\\Repos\\Courses\\conditionsPracticeEmpty\\conditionsPracticeTests\\conditionsPracticeTests.csproj",
       "projectName": "conditionsPracticeTests",
-      "projectPath": "D:\\Курсы\\conditionsPracticeEmpty\\conditionsPracticeTests\\conditionsPracticeTests.csproj",
+      "projectPath": "D:\\Courses\\Repos\\Courses\\conditionsPracticeEmpty\\conditionsPracticeTests\\conditionsPracticeTests.csproj",
       "packagesPath": "C:\\Users\\Nothing\\.nuget\\packages\\",
-      "outputPath": "D:\\Курсы\\conditionsPracticeEmpty\\conditionsPracticeTests\\obj\\",
+      "outputPath": "D:\\Courses\\Repos\\Courses\\conditionsPracticeEmpty\\conditionsPracticeTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -6159,8 +6159,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Курсы\\conditionsPracticeEmpty\\conditionsPractice\\conditionsPractice.csproj": {
-              "projectPath": "D:\\Курсы\\conditionsPracticeEmpty\\conditionsPractice\\conditionsPractice.csproj"
+            "D:\\Courses\\Repos\\Courses\\conditionsPracticeEmpty\\conditionsPractice\\conditionsPractice.csproj": {
+              "projectPath": "D:\\Courses\\Repos\\Courses\\conditionsPracticeEmpty\\conditionsPractice\\conditionsPractice.csproj"
             }
           }
         }
